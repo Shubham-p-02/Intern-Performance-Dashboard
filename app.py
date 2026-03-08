@@ -37,6 +37,11 @@ st.markdown("""
     h1, h2, h3 {
         color: #f1f1f1;
     }
+    
+    /* Hide the top right toolbar which contains 'Record Screen' and other developer options */
+    [data-testid="stToolbar"] {
+        visibility: hidden;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -207,21 +212,3 @@ with col_bottom_right:
     st.pyplot(fig)
 
 st.divider()
-
-# Data Table & Export
-st.subheader("📋 Detailed Records & Export")
-
-# Format dataframe for display
-display_df = df.copy()
-display_df['Performance_Score'] = display_df['Performance_Score'].apply(lambda x: f"{x:.1f}%")
-
-st.dataframe(display_df, use_container_width=True, hide_index=True)
-
-# Export functionality
-csv = df.to_csv(index=False).encode('utf-8')
-st.download_button(
-    label="⬇️ Download Report as CSV",
-    data=csv,
-    file_name='intern_performance_report.csv',
-    mime='text/csv',
-)
