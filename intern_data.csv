@@ -1,0 +1,601 @@
+Intern_ID,Name,Domain,Week_Number,Week_Start_Date,Tasks_Assigned,Tasks_Completed,Days_Present,Total_Working_Days,Performance_Score
+INT-001,Intern 1,Data Analytics,1,2025-01-06,10,7,4,5,74.0
+INT-001,Intern 1,Data Analytics,2,2025-01-13,14,10,3,5,66.86
+INT-001,Intern 1,Data Analytics,3,2025-01-20,9,6,5,5,80.0
+INT-001,Intern 1,Data Analytics,4,2025-01-27,10,7,4,5,74.0
+INT-001,Intern 1,Data Analytics,5,2025-02-03,13,11,5,5,90.77
+INT-001,Intern 1,Data Analytics,6,2025-02-10,10,8,5,5,88.0
+INT-001,Intern 1,Data Analytics,7,2025-02-17,15,10,5,5,80.0
+INT-001,Intern 1,Data Analytics,8,2025-02-24,7,6,5,5,91.43
+INT-001,Intern 1,Data Analytics,9,2025-03-03,5,4,5,5,88.0
+INT-001,Intern 1,Data Analytics,10,2025-03-10,15,12,4,5,80.0
+INT-001,Intern 1,Data Analytics,11,2025-03-17,8,6,5,5,85.0
+INT-001,Intern 1,Data Analytics,12,2025-03-24,7,4,3,5,58.29
+INT-002,Intern 2,Web Development,1,2025-01-06,5,4,5,5,88.0
+INT-002,Intern 2,Web Development,2,2025-01-13,13,11,5,5,90.77
+INT-002,Intern 2,Web Development,3,2025-01-20,5,4,3,5,72.0
+INT-002,Intern 2,Web Development,4,2025-01-27,12,9,5,5,85.0
+INT-002,Intern 2,Web Development,5,2025-02-03,15,12,5,5,88.0
+INT-002,Intern 2,Web Development,6,2025-02-10,9,7,5,5,86.67
+INT-002,Intern 2,Web Development,7,2025-02-17,12,9,5,5,85.0
+INT-002,Intern 2,Web Development,8,2025-02-24,5,4,4,5,80.0
+INT-002,Intern 2,Web Development,9,2025-03-03,9,7,4,5,78.67
+INT-002,Intern 2,Web Development,10,2025-03-10,5,4,5,5,88.0
+INT-002,Intern 2,Web Development,11,2025-03-17,12,10,4,5,82.0
+INT-002,Intern 2,Web Development,12,2025-03-24,8,6,5,5,85.0
+INT-003,Intern 3,Marketing,1,2025-01-06,7,5,4,5,74.86
+INT-003,Intern 3,Marketing,2,2025-01-13,13,10,5,5,86.15
+INT-003,Intern 3,Marketing,3,2025-01-20,5,4,5,5,88.0
+INT-003,Intern 3,Marketing,4,2025-01-27,8,6,5,5,85.0
+INT-003,Intern 3,Marketing,5,2025-02-03,8,6,5,5,85.0
+INT-003,Intern 3,Marketing,6,2025-02-10,12,9,5,5,85.0
+INT-003,Intern 3,Marketing,7,2025-02-17,5,3,4,5,68.0
+INT-003,Intern 3,Marketing,8,2025-02-24,9,7,4,5,78.67
+INT-003,Intern 3,Marketing,9,2025-03-03,14,12,5,5,91.43
+INT-003,Intern 3,Marketing,10,2025-03-10,12,10,5,5,90.0
+INT-003,Intern 3,Marketing,11,2025-03-17,7,5,5,5,82.86
+INT-003,Intern 3,Marketing,12,2025-03-24,11,9,5,5,89.09
+INT-004,Intern 4,Marketing,1,2025-01-06,10,8,4,5,80.0
+INT-004,Intern 4,Marketing,2,2025-01-13,12,9,5,5,85.0
+INT-004,Intern 4,Marketing,3,2025-01-20,12,9,4,5,77.0
+INT-004,Intern 4,Marketing,4,2025-01-27,12,9,5,5,85.0
+INT-004,Intern 4,Marketing,5,2025-02-03,10,7,3,5,66.0
+INT-004,Intern 4,Marketing,6,2025-02-10,5,4,4,5,80.0
+INT-004,Intern 4,Marketing,7,2025-02-17,11,8,5,5,83.64
+INT-004,Intern 4,Marketing,8,2025-02-24,8,6,5,5,85.0
+INT-004,Intern 4,Marketing,9,2025-03-03,13,11,5,5,90.77
+INT-004,Intern 4,Marketing,10,2025-03-10,6,5,4,5,82.0
+INT-004,Intern 4,Marketing,11,2025-03-17,8,7,5,5,92.5
+INT-004,Intern 4,Marketing,12,2025-03-24,15,12,4,5,80.0
+INT-005,Intern 5,Data Science,1,2025-01-06,10,5,4,5,62.0
+INT-005,Intern 5,Data Science,2,2025-01-13,10,6,5,5,76.0
+INT-005,Intern 5,Data Science,3,2025-01-20,5,2,5,5,64.0
+INT-005,Intern 5,Data Science,4,2025-01-27,7,4,3,5,58.29
+INT-005,Intern 5,Data Science,5,2025-02-03,12,7,3,5,59.0
+INT-005,Intern 5,Data Science,6,2025-02-10,7,4,5,5,74.29
+INT-005,Intern 5,Data Science,7,2025-02-17,14,8,4,5,66.29
+INT-005,Intern 5,Data Science,8,2025-02-24,11,5,4,5,59.27
+INT-005,Intern 5,Data Science,9,2025-03-03,14,8,4,5,66.29
+INT-005,Intern 5,Data Science,10,2025-03-10,7,4,4,5,66.29
+INT-005,Intern 5,Data Science,11,2025-03-17,15,10,4,5,72.0
+INT-005,Intern 5,Data Science,12,2025-03-24,7,4,5,5,74.29
+INT-006,Intern 6,Data Analytics,1,2025-01-06,6,4,4,5,72.0
+INT-006,Intern 6,Data Analytics,2,2025-01-13,14,9,5,5,78.57
+INT-006,Intern 6,Data Analytics,3,2025-01-20,5,3,5,5,76.0
+INT-006,Intern 6,Data Analytics,4,2025-01-27,10,6,5,5,76.0
+INT-006,Intern 6,Data Analytics,5,2025-02-03,7,5,5,5,82.86
+INT-006,Intern 6,Data Analytics,6,2025-02-10,15,10,3,5,64.0
+INT-006,Intern 6,Data Analytics,7,2025-02-17,13,10,4,5,78.15
+INT-006,Intern 6,Data Analytics,8,2025-02-24,7,5,5,5,82.86
+INT-006,Intern 6,Data Analytics,9,2025-03-03,13,10,4,5,78.15
+INT-006,Intern 6,Data Analytics,10,2025-03-10,7,5,3,5,66.86
+INT-006,Intern 6,Data Analytics,11,2025-03-17,11,9,4,5,81.09
+INT-006,Intern 6,Data Analytics,12,2025-03-24,6,3,4,5,62.0
+INT-007,Intern 7,Web Development,1,2025-01-06,10,9,5,5,94.0
+INT-007,Intern 7,Web Development,2,2025-01-13,11,9,5,5,89.09
+INT-007,Intern 7,Web Development,3,2025-01-20,10,9,5,5,94.0
+INT-007,Intern 7,Web Development,4,2025-01-27,14,11,5,5,87.14
+INT-007,Intern 7,Web Development,5,2025-02-03,10,8,5,5,88.0
+INT-007,Intern 7,Web Development,6,2025-02-10,13,12,5,5,95.38
+INT-007,Intern 7,Web Development,7,2025-02-17,9,7,5,5,86.67
+INT-007,Intern 7,Web Development,8,2025-02-24,10,9,5,5,94.0
+INT-007,Intern 7,Web Development,9,2025-03-03,14,14,5,5,100.0
+INT-007,Intern 7,Web Development,10,2025-03-10,10,9,5,5,94.0
+INT-007,Intern 7,Web Development,11,2025-03-17,13,11,5,5,90.77
+INT-007,Intern 7,Web Development,12,2025-03-24,8,6,5,5,85.0
+INT-008,Intern 8,Data Science,1,2025-01-06,15,14,5,5,96.0
+INT-008,Intern 8,Data Science,2,2025-01-13,15,14,5,5,96.0
+INT-008,Intern 8,Data Science,3,2025-01-20,15,14,5,5,96.0
+INT-008,Intern 8,Data Science,4,2025-01-27,7,6,5,5,91.43
+INT-008,Intern 8,Data Science,5,2025-02-03,9,8,5,5,93.33
+INT-008,Intern 8,Data Science,6,2025-02-10,9,8,5,5,93.33
+INT-008,Intern 8,Data Science,7,2025-02-17,13,13,5,5,100.0
+INT-008,Intern 8,Data Science,8,2025-02-24,5,4,5,5,88.0
+INT-008,Intern 8,Data Science,9,2025-03-03,5,4,5,5,88.0
+INT-008,Intern 8,Data Science,10,2025-03-10,7,6,5,5,91.43
+INT-008,Intern 8,Data Science,11,2025-03-17,12,10,5,5,90.0
+INT-008,Intern 8,Data Science,12,2025-03-24,6,5,5,5,90.0
+INT-009,Intern 9,Web Development,1,2025-01-06,15,10,4,5,72.0
+INT-009,Intern 9,Web Development,2,2025-01-13,6,3,4,5,62.0
+INT-009,Intern 9,Web Development,3,2025-01-20,14,8,4,5,66.29
+INT-009,Intern 9,Web Development,4,2025-01-27,7,4,5,5,74.29
+INT-009,Intern 9,Web Development,5,2025-02-03,14,9,4,5,70.57
+INT-009,Intern 9,Web Development,6,2025-02-10,10,6,4,5,68.0
+INT-009,Intern 9,Web Development,7,2025-02-17,15,9,3,5,60.0
+INT-009,Intern 9,Web Development,8,2025-02-24,6,4,4,5,72.0
+INT-009,Intern 9,Web Development,9,2025-03-03,6,4,4,5,72.0
+INT-009,Intern 9,Web Development,10,2025-03-10,14,8,5,5,74.29
+INT-009,Intern 9,Web Development,11,2025-03-17,14,9,5,5,78.57
+INT-009,Intern 9,Web Development,12,2025-03-24,12,8,4,5,72.0
+INT-010,Intern 10,UI/UX Design,1,2025-01-06,14,8,3,5,58.29
+INT-010,Intern 10,UI/UX Design,2,2025-01-13,5,3,3,5,60.0
+INT-010,Intern 10,UI/UX Design,3,2025-01-20,11,7,3,5,62.18
+INT-010,Intern 10,UI/UX Design,4,2025-01-27,14,9,3,5,62.57
+INT-010,Intern 10,UI/UX Design,5,2025-02-03,15,10,4,5,72.0
+INT-010,Intern 10,UI/UX Design,6,2025-02-10,12,8,4,5,72.0
+INT-010,Intern 10,UI/UX Design,7,2025-02-17,12,8,3,5,64.0
+INT-010,Intern 10,UI/UX Design,8,2025-02-24,9,6,4,5,72.0
+INT-010,Intern 10,UI/UX Design,9,2025-03-03,7,4,3,5,58.29
+INT-010,Intern 10,UI/UX Design,10,2025-03-10,5,3,3,5,60.0
+INT-010,Intern 10,UI/UX Design,11,2025-03-17,9,6,5,5,80.0
+INT-010,Intern 10,UI/UX Design,12,2025-03-24,10,7,2,5,58.0
+INT-011,Intern 11,Data Science,1,2025-01-06,13,9,5,5,81.54
+INT-011,Intern 11,Data Science,2,2025-01-13,12,7,4,5,67.0
+INT-011,Intern 11,Data Science,3,2025-01-20,6,4,3,5,64.0
+INT-011,Intern 11,Data Science,4,2025-01-27,10,7,3,5,66.0
+INT-011,Intern 11,Data Science,5,2025-02-03,13,9,5,5,81.54
+INT-011,Intern 11,Data Science,6,2025-02-10,10,7,5,5,82.0
+INT-011,Intern 11,Data Science,7,2025-02-17,11,8,2,5,59.64
+INT-011,Intern 11,Data Science,8,2025-02-24,10,7,3,5,66.0
+INT-011,Intern 11,Data Science,9,2025-03-03,14,9,3,5,62.57
+INT-011,Intern 11,Data Science,10,2025-03-10,12,9,4,5,77.0
+INT-011,Intern 11,Data Science,11,2025-03-17,12,8,4,5,72.0
+INT-011,Intern 11,Data Science,12,2025-03-24,14,10,2,5,58.86
+INT-012,Intern 12,Web Development,1,2025-01-06,15,14,5,5,96.0
+INT-012,Intern 12,Web Development,2,2025-01-13,15,14,5,5,96.0
+INT-012,Intern 12,Web Development,3,2025-01-20,7,6,5,5,91.43
+INT-012,Intern 12,Web Development,4,2025-01-27,12,11,5,5,95.0
+INT-012,Intern 12,Web Development,5,2025-02-03,6,5,5,5,90.0
+INT-012,Intern 12,Web Development,6,2025-02-10,7,6,5,5,91.43
+INT-012,Intern 12,Web Development,7,2025-02-17,6,5,5,5,90.0
+INT-012,Intern 12,Web Development,8,2025-02-24,8,6,5,5,85.0
+INT-012,Intern 12,Web Development,9,2025-03-03,7,6,5,5,91.43
+INT-012,Intern 12,Web Development,10,2025-03-10,7,6,5,5,91.43
+INT-012,Intern 12,Web Development,11,2025-03-17,7,6,5,5,91.43
+INT-012,Intern 12,Web Development,12,2025-03-24,6,5,5,5,90.0
+INT-013,Intern 13,Data Analytics,1,2025-01-06,5,3,4,5,68.0
+INT-013,Intern 13,Data Analytics,2,2025-01-13,12,9,4,5,77.0
+INT-013,Intern 13,Data Analytics,3,2025-01-20,10,6,4,5,68.0
+INT-013,Intern 13,Data Analytics,4,2025-01-27,7,4,5,5,74.29
+INT-013,Intern 13,Data Analytics,5,2025-02-03,10,6,5,5,76.0
+INT-013,Intern 13,Data Analytics,6,2025-02-10,6,4,4,5,72.0
+INT-013,Intern 13,Data Analytics,7,2025-02-17,9,5,5,5,73.33
+INT-013,Intern 13,Data Analytics,8,2025-02-24,5,4,5,5,88.0
+INT-013,Intern 13,Data Analytics,9,2025-03-03,14,9,4,5,70.57
+INT-013,Intern 13,Data Analytics,10,2025-03-10,15,10,4,5,72.0
+INT-013,Intern 13,Data Analytics,11,2025-03-17,14,8,4,5,66.29
+INT-013,Intern 13,Data Analytics,12,2025-03-24,15,11,5,5,84.0
+INT-014,Intern 14,UI/UX Design,1,2025-01-06,7,5,3,5,66.86
+INT-014,Intern 14,UI/UX Design,2,2025-01-13,9,5,4,5,65.33
+INT-014,Intern 14,UI/UX Design,3,2025-01-20,10,6,5,5,76.0
+INT-014,Intern 14,UI/UX Design,4,2025-01-27,7,5,4,5,74.86
+INT-014,Intern 14,UI/UX Design,5,2025-02-03,10,7,3,5,66.0
+INT-014,Intern 14,UI/UX Design,6,2025-02-10,12,9,5,5,85.0
+INT-014,Intern 14,UI/UX Design,7,2025-02-17,7,5,2,5,58.86
+INT-014,Intern 14,UI/UX Design,8,2025-02-24,8,5,5,5,77.5
+INT-014,Intern 14,UI/UX Design,9,2025-03-03,10,7,3,5,66.0
+INT-014,Intern 14,UI/UX Design,10,2025-03-10,13,9,4,5,73.54
+INT-014,Intern 14,UI/UX Design,11,2025-03-17,6,4,4,5,72.0
+INT-014,Intern 14,UI/UX Design,12,2025-03-24,15,10,4,5,72.0
+INT-015,Intern 15,Data Science,1,2025-01-06,6,4,5,5,80.0
+INT-015,Intern 15,Data Science,2,2025-01-13,12,9,4,5,77.0
+INT-015,Intern 15,Data Science,3,2025-01-20,5,3,5,5,76.0
+INT-015,Intern 15,Data Science,4,2025-01-27,11,8,3,5,67.64
+INT-015,Intern 15,Data Science,5,2025-02-03,11,8,4,5,75.64
+INT-015,Intern 15,Data Science,6,2025-02-10,9,7,5,5,86.67
+INT-015,Intern 15,Data Science,7,2025-02-17,7,5,4,5,74.86
+INT-015,Intern 15,Data Science,8,2025-02-24,9,7,4,5,78.67
+INT-015,Intern 15,Data Science,9,2025-03-03,5,3,5,5,76.0
+INT-015,Intern 15,Data Science,10,2025-03-10,13,11,4,5,82.77
+INT-015,Intern 15,Data Science,11,2025-03-17,5,3,5,5,76.0
+INT-015,Intern 15,Data Science,12,2025-03-24,12,8,3,5,64.0
+INT-016,Intern 16,Data Analytics,1,2025-01-06,15,12,4,5,80.0
+INT-016,Intern 16,Data Analytics,2,2025-01-13,11,7,3,5,62.18
+INT-016,Intern 16,Data Analytics,3,2025-01-20,11,7,4,5,70.18
+INT-016,Intern 16,Data Analytics,4,2025-01-27,15,9,5,5,76.0
+INT-016,Intern 16,Data Analytics,5,2025-02-03,6,5,5,5,90.0
+INT-016,Intern 16,Data Analytics,6,2025-02-10,9,5,5,5,73.33
+INT-016,Intern 16,Data Analytics,7,2025-02-17,11,7,3,5,62.18
+INT-016,Intern 16,Data Analytics,8,2025-02-24,8,5,5,5,77.5
+INT-016,Intern 16,Data Analytics,9,2025-03-03,10,7,4,5,74.0
+INT-016,Intern 16,Data Analytics,10,2025-03-10,7,5,5,5,82.86
+INT-016,Intern 16,Data Analytics,11,2025-03-17,14,10,5,5,82.86
+INT-016,Intern 16,Data Analytics,12,2025-03-24,10,8,3,5,72.0
+INT-017,Intern 17,Data Science,1,2025-01-06,6,5,5,5,90.0
+INT-017,Intern 17,Data Science,2,2025-01-13,7,6,4,5,83.43
+INT-017,Intern 17,Data Science,3,2025-01-20,6,5,4,5,82.0
+INT-017,Intern 17,Data Science,4,2025-01-27,7,5,4,5,74.86
+INT-017,Intern 17,Data Science,5,2025-02-03,8,6,3,5,69.0
+INT-017,Intern 17,Data Science,6,2025-02-10,5,4,5,5,88.0
+INT-017,Intern 17,Data Science,7,2025-02-17,8,6,5,5,85.0
+INT-017,Intern 17,Data Science,8,2025-02-24,13,11,5,5,90.77
+INT-017,Intern 17,Data Science,9,2025-03-03,15,13,5,5,92.0
+INT-017,Intern 17,Data Science,10,2025-03-10,12,10,4,5,82.0
+INT-017,Intern 17,Data Science,11,2025-03-17,10,7,3,5,66.0
+INT-017,Intern 17,Data Science,12,2025-03-24,6,5,4,5,82.0
+INT-018,Intern 18,Marketing,1,2025-01-06,11,5,3,5,51.27
+INT-018,Intern 18,Marketing,2,2025-01-13,6,3,1,5,38.0
+INT-018,Intern 18,Marketing,3,2025-01-20,12,7,3,5,59.0
+INT-018,Intern 18,Marketing,4,2025-01-27,8,4,3,5,54.0
+INT-018,Intern 18,Marketing,5,2025-02-03,11,7,3,5,62.18
+INT-018,Intern 18,Marketing,6,2025-02-10,7,4,3,5,58.29
+INT-018,Intern 18,Marketing,7,2025-02-17,10,6,4,5,68.0
+INT-018,Intern 18,Marketing,8,2025-02-24,12,8,4,5,72.0
+INT-018,Intern 18,Marketing,9,2025-03-03,14,9,4,5,70.57
+INT-018,Intern 18,Marketing,10,2025-03-10,12,7,5,5,75.0
+INT-018,Intern 18,Marketing,11,2025-03-17,8,5,4,5,69.5
+INT-018,Intern 18,Marketing,12,2025-03-24,7,4,4,5,66.29
+INT-019,Intern 19,UI/UX Design,1,2025-01-06,12,6,4,5,62.0
+INT-019,Intern 19,UI/UX Design,2,2025-01-13,9,5,1,5,41.33
+INT-019,Intern 19,UI/UX Design,3,2025-01-20,10,5,2,5,46.0
+INT-019,Intern 19,UI/UX Design,4,2025-01-27,9,5,3,5,57.33
+INT-019,Intern 19,UI/UX Design,5,2025-02-03,14,8,4,5,66.29
+INT-019,Intern 19,UI/UX Design,6,2025-02-10,11,6,4,5,64.73
+INT-019,Intern 19,UI/UX Design,7,2025-02-17,12,7,2,5,51.0
+INT-019,Intern 19,UI/UX Design,8,2025-02-24,9,5,4,5,65.33
+INT-019,Intern 19,UI/UX Design,9,2025-03-03,10,6,3,5,60.0
+INT-019,Intern 19,UI/UX Design,10,2025-03-10,12,7,4,5,67.0
+INT-019,Intern 19,UI/UX Design,11,2025-03-17,7,3,3,5,49.71
+INT-019,Intern 19,UI/UX Design,12,2025-03-24,8,4,3,5,54.0
+INT-020,Intern 20,Web Development,1,2025-01-06,9,8,5,5,93.33
+INT-020,Intern 20,Web Development,2,2025-01-13,14,13,5,5,95.71
+INT-020,Intern 20,Web Development,3,2025-01-20,13,11,5,5,90.77
+INT-020,Intern 20,Web Development,4,2025-01-27,11,10,5,5,94.55
+INT-020,Intern 20,Web Development,5,2025-02-03,9,8,5,5,93.33
+INT-020,Intern 20,Web Development,6,2025-02-10,14,12,5,5,91.43
+INT-020,Intern 20,Web Development,7,2025-02-17,10,8,5,5,88.0
+INT-020,Intern 20,Web Development,8,2025-02-24,5,4,5,5,88.0
+INT-020,Intern 20,Web Development,9,2025-03-03,5,4,5,5,88.0
+INT-020,Intern 20,Web Development,10,2025-03-10,12,10,5,5,90.0
+INT-020,Intern 20,Web Development,11,2025-03-17,10,8,5,5,88.0
+INT-020,Intern 20,Web Development,12,2025-03-24,15,14,5,5,96.0
+INT-021,Intern 21,Web Development,1,2025-01-06,6,4,4,5,72.0
+INT-021,Intern 21,Web Development,2,2025-01-13,8,4,4,5,62.0
+INT-021,Intern 21,Web Development,3,2025-01-20,14,10,5,5,82.86
+INT-021,Intern 21,Web Development,4,2025-01-27,14,9,1,5,46.57
+INT-021,Intern 21,Web Development,5,2025-02-03,5,3,5,5,76.0
+INT-021,Intern 21,Web Development,6,2025-02-10,7,4,4,5,66.29
+INT-021,Intern 21,Web Development,7,2025-02-17,14,9,3,5,62.57
+INT-021,Intern 21,Web Development,8,2025-02-24,7,4,4,5,66.29
+INT-021,Intern 21,Web Development,9,2025-03-03,6,3,4,5,62.0
+INT-021,Intern 21,Web Development,10,2025-03-10,15,8,5,5,72.0
+INT-021,Intern 21,Web Development,11,2025-03-17,14,7,4,5,62.0
+INT-021,Intern 21,Web Development,12,2025-03-24,14,8,4,5,66.29
+INT-022,Intern 22,UI/UX Design,1,2025-01-06,12,10,5,5,90.0
+INT-022,Intern 22,UI/UX Design,2,2025-01-13,6,5,5,5,90.0
+INT-022,Intern 22,UI/UX Design,3,2025-01-20,11,10,5,5,94.55
+INT-022,Intern 22,UI/UX Design,4,2025-01-27,7,6,5,5,91.43
+INT-022,Intern 22,UI/UX Design,5,2025-02-03,15,15,5,5,100.0
+INT-022,Intern 22,UI/UX Design,6,2025-02-10,9,8,5,5,93.33
+INT-022,Intern 22,UI/UX Design,7,2025-02-17,12,12,5,5,100.0
+INT-022,Intern 22,UI/UX Design,8,2025-02-24,8,7,5,5,92.5
+INT-022,Intern 22,UI/UX Design,9,2025-03-03,10,8,5,5,88.0
+INT-022,Intern 22,UI/UX Design,10,2025-03-10,9,8,5,5,93.33
+INT-022,Intern 22,UI/UX Design,11,2025-03-17,6,5,5,5,90.0
+INT-022,Intern 22,UI/UX Design,12,2025-03-24,5,4,5,5,88.0
+INT-023,Intern 23,Web Development,1,2025-01-06,14,13,5,5,95.71
+INT-023,Intern 23,Web Development,2,2025-01-13,12,10,5,5,90.0
+INT-023,Intern 23,Web Development,3,2025-01-20,5,4,5,5,88.0
+INT-023,Intern 23,Web Development,4,2025-01-27,6,5,5,5,90.0
+INT-023,Intern 23,Web Development,5,2025-02-03,6,5,5,5,90.0
+INT-023,Intern 23,Web Development,6,2025-02-10,5,4,5,5,88.0
+INT-023,Intern 23,Web Development,7,2025-02-17,14,13,4,5,87.71
+INT-023,Intern 23,Web Development,8,2025-02-24,12,10,5,5,90.0
+INT-023,Intern 23,Web Development,9,2025-03-03,14,11,5,5,87.14
+INT-023,Intern 23,Web Development,10,2025-03-10,9,8,5,5,93.33
+INT-023,Intern 23,Web Development,11,2025-03-17,8,7,3,5,76.5
+INT-023,Intern 23,Web Development,12,2025-03-24,11,10,5,5,94.55
+INT-024,Intern 24,Web Development,1,2025-01-06,14,10,5,5,82.86
+INT-024,Intern 24,Web Development,2,2025-01-13,8,7,5,5,92.5
+INT-024,Intern 24,Web Development,3,2025-01-20,13,11,5,5,90.77
+INT-024,Intern 24,Web Development,4,2025-01-27,14,11,4,5,79.14
+INT-024,Intern 24,Web Development,5,2025-02-03,13,10,5,5,86.15
+INT-024,Intern 24,Web Development,6,2025-02-10,8,6,5,5,85.0
+INT-024,Intern 24,Web Development,7,2025-02-17,10,7,5,5,82.0
+INT-024,Intern 24,Web Development,8,2025-02-24,13,11,3,5,74.77
+INT-024,Intern 24,Web Development,9,2025-03-03,14,11,5,5,87.14
+INT-024,Intern 24,Web Development,10,2025-03-10,6,4,5,5,80.0
+INT-024,Intern 24,Web Development,11,2025-03-17,7,6,5,5,91.43
+INT-024,Intern 24,Web Development,12,2025-03-24,14,13,5,5,95.71
+INT-025,Intern 25,Web Development,1,2025-01-06,14,12,4,5,83.43
+INT-025,Intern 25,Web Development,2,2025-01-13,9,8,4,5,85.33
+INT-025,Intern 25,Web Development,3,2025-01-20,5,4,5,5,88.0
+INT-025,Intern 25,Web Development,4,2025-01-27,7,5,5,5,82.86
+INT-025,Intern 25,Web Development,5,2025-02-03,15,14,5,5,96.0
+INT-025,Intern 25,Web Development,6,2025-02-10,8,7,5,5,92.5
+INT-025,Intern 25,Web Development,7,2025-02-17,15,13,4,5,84.0
+INT-025,Intern 25,Web Development,8,2025-02-24,13,11,5,5,90.77
+INT-025,Intern 25,Web Development,9,2025-03-03,9,8,4,5,85.33
+INT-025,Intern 25,Web Development,10,2025-03-10,8,6,4,5,77.0
+INT-025,Intern 25,Web Development,11,2025-03-17,14,13,5,5,95.71
+INT-025,Intern 25,Web Development,12,2025-03-24,6,5,5,5,90.0
+INT-026,Intern 26,UI/UX Design,1,2025-01-06,11,7,4,5,70.18
+INT-026,Intern 26,UI/UX Design,2,2025-01-13,12,9,5,5,85.0
+INT-026,Intern 26,UI/UX Design,3,2025-01-20,6,3,3,5,54.0
+INT-026,Intern 26,UI/UX Design,4,2025-01-27,9,5,3,5,57.33
+INT-026,Intern 26,UI/UX Design,5,2025-02-03,5,3,4,5,68.0
+INT-026,Intern 26,UI/UX Design,6,2025-02-10,6,3,5,5,70.0
+INT-026,Intern 26,UI/UX Design,7,2025-02-17,8,5,3,5,61.5
+INT-026,Intern 26,UI/UX Design,8,2025-02-24,12,9,4,5,77.0
+INT-026,Intern 26,UI/UX Design,9,2025-03-03,9,5,4,5,65.33
+INT-026,Intern 26,UI/UX Design,10,2025-03-10,14,9,5,5,78.57
+INT-026,Intern 26,UI/UX Design,11,2025-03-17,15,11,5,5,84.0
+INT-026,Intern 26,UI/UX Design,12,2025-03-24,6,3,5,5,70.0
+INT-027,Intern 27,Data Science,1,2025-01-06,8,6,4,5,77.0
+INT-027,Intern 27,Data Science,2,2025-01-13,10,8,4,5,80.0
+INT-027,Intern 27,Data Science,3,2025-01-20,12,9,5,5,85.0
+INT-027,Intern 27,Data Science,4,2025-01-27,15,11,5,5,84.0
+INT-027,Intern 27,Data Science,5,2025-02-03,7,5,4,5,74.86
+INT-027,Intern 27,Data Science,6,2025-02-10,15,10,5,5,80.0
+INT-027,Intern 27,Data Science,7,2025-02-17,9,7,3,5,70.67
+INT-027,Intern 27,Data Science,8,2025-02-24,8,6,3,5,69.0
+INT-027,Intern 27,Data Science,9,2025-03-03,6,4,3,5,64.0
+INT-027,Intern 27,Data Science,10,2025-03-10,7,5,4,5,74.86
+INT-027,Intern 27,Data Science,11,2025-03-17,10,8,5,5,88.0
+INT-027,Intern 27,Data Science,12,2025-03-24,14,9,5,5,78.57
+INT-028,Intern 28,Data Science,1,2025-01-06,10,8,5,5,88.0
+INT-028,Intern 28,Data Science,2,2025-01-13,7,6,4,5,83.43
+INT-028,Intern 28,Data Science,3,2025-01-20,15,12,5,5,88.0
+INT-028,Intern 28,Data Science,4,2025-01-27,6,5,5,5,90.0
+INT-028,Intern 28,Data Science,5,2025-02-03,13,12,5,5,95.38
+INT-028,Intern 28,Data Science,6,2025-02-10,6,5,5,5,90.0
+INT-028,Intern 28,Data Science,7,2025-02-17,11,9,5,5,89.09
+INT-028,Intern 28,Data Science,8,2025-02-24,15,12,5,5,88.0
+INT-028,Intern 28,Data Science,9,2025-03-03,10,8,5,5,88.0
+INT-028,Intern 28,Data Science,10,2025-03-10,7,5,5,5,82.86
+INT-028,Intern 28,Data Science,11,2025-03-17,15,14,5,5,96.0
+INT-028,Intern 28,Data Science,12,2025-03-24,8,6,5,5,85.0
+INT-029,Intern 29,Data Analytics,1,2025-01-06,12,9,5,5,85.0
+INT-029,Intern 29,Data Analytics,2,2025-01-13,8,6,5,5,85.0
+INT-029,Intern 29,Data Analytics,3,2025-01-20,12,10,4,5,82.0
+INT-029,Intern 29,Data Analytics,4,2025-01-27,12,10,4,5,82.0
+INT-029,Intern 29,Data Analytics,5,2025-02-03,15,12,5,5,88.0
+INT-029,Intern 29,Data Analytics,6,2025-02-10,15,11,5,5,84.0
+INT-029,Intern 29,Data Analytics,7,2025-02-17,8,6,5,5,85.0
+INT-029,Intern 29,Data Analytics,8,2025-02-24,11,8,4,5,75.64
+INT-029,Intern 29,Data Analytics,9,2025-03-03,14,11,4,5,79.14
+INT-029,Intern 29,Data Analytics,10,2025-03-10,6,5,4,5,82.0
+INT-029,Intern 29,Data Analytics,11,2025-03-17,9,6,4,5,72.0
+INT-029,Intern 29,Data Analytics,12,2025-03-24,5,4,5,5,88.0
+INT-030,Intern 30,UI/UX Design,1,2025-01-06,13,9,5,5,81.54
+INT-030,Intern 30,UI/UX Design,2,2025-01-13,11,8,3,5,67.64
+INT-030,Intern 30,UI/UX Design,3,2025-01-20,6,4,2,5,56.0
+INT-030,Intern 30,UI/UX Design,4,2025-01-27,7,4,5,5,74.29
+INT-030,Intern 30,UI/UX Design,5,2025-02-03,15,11,5,5,84.0
+INT-030,Intern 30,UI/UX Design,6,2025-02-10,5,2,5,5,64.0
+INT-030,Intern 30,UI/UX Design,7,2025-02-17,5,3,4,5,68.0
+INT-030,Intern 30,UI/UX Design,8,2025-02-24,6,3,3,5,54.0
+INT-030,Intern 30,UI/UX Design,9,2025-03-03,7,4,4,5,66.29
+INT-030,Intern 30,UI/UX Design,10,2025-03-10,6,3,4,5,62.0
+INT-030,Intern 30,UI/UX Design,11,2025-03-17,13,10,2,5,62.15
+INT-030,Intern 30,UI/UX Design,12,2025-03-24,5,3,3,5,60.0
+INT-031,Intern 31,UI/UX Design,1,2025-01-06,9,7,5,5,86.67
+INT-031,Intern 31,UI/UX Design,2,2025-01-13,8,7,4,5,84.5
+INT-031,Intern 31,UI/UX Design,3,2025-01-20,12,9,5,5,85.0
+INT-031,Intern 31,UI/UX Design,4,2025-01-27,7,5,4,5,74.86
+INT-031,Intern 31,UI/UX Design,5,2025-02-03,12,9,5,5,85.0
+INT-031,Intern 31,UI/UX Design,6,2025-02-10,12,9,5,5,85.0
+INT-031,Intern 31,UI/UX Design,7,2025-02-17,12,9,5,5,85.0
+INT-031,Intern 31,UI/UX Design,8,2025-02-24,9,6,3,5,64.0
+INT-031,Intern 31,UI/UX Design,9,2025-03-03,6,4,4,5,72.0
+INT-031,Intern 31,UI/UX Design,10,2025-03-10,12,9,5,5,85.0
+INT-031,Intern 31,UI/UX Design,11,2025-03-17,10,7,4,5,74.0
+INT-031,Intern 31,UI/UX Design,12,2025-03-24,6,4,5,5,80.0
+INT-032,Intern 32,Data Science,1,2025-01-06,5,4,5,5,88.0
+INT-032,Intern 32,Data Science,2,2025-01-13,12,11,4,5,87.0
+INT-032,Intern 32,Data Science,3,2025-01-20,14,12,5,5,91.43
+INT-032,Intern 32,Data Science,4,2025-01-27,7,6,5,5,91.43
+INT-032,Intern 32,Data Science,5,2025-02-03,11,8,5,5,83.64
+INT-032,Intern 32,Data Science,6,2025-02-10,12,9,5,5,85.0
+INT-032,Intern 32,Data Science,7,2025-02-17,8,7,5,5,92.5
+INT-032,Intern 32,Data Science,8,2025-02-24,9,8,4,5,85.33
+INT-032,Intern 32,Data Science,9,2025-03-03,5,4,5,5,88.0
+INT-032,Intern 32,Data Science,10,2025-03-10,11,9,4,5,81.09
+INT-032,Intern 32,Data Science,11,2025-03-17,9,8,5,5,93.33
+INT-032,Intern 32,Data Science,12,2025-03-24,15,13,4,5,84.0
+INT-033,Intern 33,Marketing,1,2025-01-06,7,4,3,5,58.29
+INT-033,Intern 33,Marketing,2,2025-01-13,10,6,3,5,60.0
+INT-033,Intern 33,Marketing,3,2025-01-20,8,6,4,5,77.0
+INT-033,Intern 33,Marketing,4,2025-01-27,13,9,5,5,81.54
+INT-033,Intern 33,Marketing,5,2025-02-03,10,6,5,5,76.0
+INT-033,Intern 33,Marketing,6,2025-02-10,9,6,4,5,72.0
+INT-033,Intern 33,Marketing,7,2025-02-17,13,9,4,5,73.54
+INT-033,Intern 33,Marketing,8,2025-02-24,6,4,5,5,80.0
+INT-033,Intern 33,Marketing,9,2025-03-03,5,3,3,5,60.0
+INT-033,Intern 33,Marketing,10,2025-03-10,15,10,5,5,80.0
+INT-033,Intern 33,Marketing,11,2025-03-17,10,6,3,5,60.0
+INT-033,Intern 33,Marketing,12,2025-03-24,11,7,3,5,62.18
+INT-034,Intern 34,Web Development,1,2025-01-06,10,8,5,5,88.0
+INT-034,Intern 34,Web Development,2,2025-01-13,9,9,5,5,100.0
+INT-034,Intern 34,Web Development,3,2025-01-20,10,9,5,5,94.0
+INT-034,Intern 34,Web Development,4,2025-01-27,9,7,5,5,86.67
+INT-034,Intern 34,Web Development,5,2025-02-03,13,12,5,5,95.38
+INT-034,Intern 34,Web Development,6,2025-02-10,7,6,5,5,91.43
+INT-034,Intern 34,Web Development,7,2025-02-17,13,11,5,5,90.77
+INT-034,Intern 34,Web Development,8,2025-02-24,5,4,5,5,88.0
+INT-034,Intern 34,Web Development,9,2025-03-03,10,9,5,5,94.0
+INT-034,Intern 34,Web Development,10,2025-03-10,12,11,5,5,95.0
+INT-034,Intern 34,Web Development,11,2025-03-17,8,8,5,5,100.0
+INT-034,Intern 34,Web Development,12,2025-03-24,6,6,5,5,100.0
+INT-035,Intern 35,Data Science,1,2025-01-06,12,9,4,5,77.0
+INT-035,Intern 35,Data Science,2,2025-01-13,14,11,5,5,87.14
+INT-035,Intern 35,Data Science,3,2025-01-20,9,6,5,5,80.0
+INT-035,Intern 35,Data Science,4,2025-01-27,11,7,5,5,78.18
+INT-035,Intern 35,Data Science,5,2025-02-03,9,7,5,5,86.67
+INT-035,Intern 35,Data Science,6,2025-02-10,12,9,4,5,77.0
+INT-035,Intern 35,Data Science,7,2025-02-17,10,7,4,5,74.0
+INT-035,Intern 35,Data Science,8,2025-02-24,14,9,5,5,78.57
+INT-035,Intern 35,Data Science,9,2025-03-03,11,8,5,5,83.64
+INT-035,Intern 35,Data Science,10,2025-03-10,15,11,3,5,68.0
+INT-035,Intern 35,Data Science,11,2025-03-17,10,7,5,5,82.0
+INT-035,Intern 35,Data Science,12,2025-03-24,12,9,5,5,85.0
+INT-036,Intern 36,UI/UX Design,1,2025-01-06,10,6,1,5,44.0
+INT-036,Intern 36,UI/UX Design,2,2025-01-13,10,7,3,5,66.0
+INT-036,Intern 36,UI/UX Design,3,2025-01-20,8,5,4,5,69.5
+INT-036,Intern 36,UI/UX Design,4,2025-01-27,10,6,4,5,68.0
+INT-036,Intern 36,UI/UX Design,5,2025-02-03,15,10,4,5,72.0
+INT-036,Intern 36,UI/UX Design,6,2025-02-10,7,4,4,5,66.29
+INT-036,Intern 36,UI/UX Design,7,2025-02-17,12,6,4,5,62.0
+INT-036,Intern 36,UI/UX Design,8,2025-02-24,8,4,3,5,54.0
+INT-036,Intern 36,UI/UX Design,9,2025-03-03,13,9,4,5,73.54
+INT-036,Intern 36,UI/UX Design,10,2025-03-10,12,7,5,5,75.0
+INT-036,Intern 36,UI/UX Design,11,2025-03-17,6,3,4,5,62.0
+INT-036,Intern 36,UI/UX Design,12,2025-03-24,14,10,5,5,82.86
+INT-037,Intern 37,Marketing,1,2025-01-06,5,3,5,5,76.0
+INT-037,Intern 37,Marketing,2,2025-01-13,11,7,5,5,78.18
+INT-037,Intern 37,Marketing,3,2025-01-20,8,5,4,5,69.5
+INT-037,Intern 37,Marketing,4,2025-01-27,12,8,2,5,56.0
+INT-037,Intern 37,Marketing,5,2025-02-03,7,4,5,5,74.29
+INT-037,Intern 37,Marketing,6,2025-02-10,7,4,5,5,74.29
+INT-037,Intern 37,Marketing,7,2025-02-17,7,4,3,5,58.29
+INT-037,Intern 37,Marketing,8,2025-02-24,11,8,5,5,83.64
+INT-037,Intern 37,Marketing,9,2025-03-03,10,7,3,5,66.0
+INT-037,Intern 37,Marketing,10,2025-03-10,6,4,3,5,64.0
+INT-037,Intern 37,Marketing,11,2025-03-17,14,8,5,5,74.29
+INT-037,Intern 37,Marketing,12,2025-03-24,10,6,5,5,76.0
+INT-038,Intern 38,UI/UX Design,1,2025-01-06,7,4,4,5,66.29
+INT-038,Intern 38,UI/UX Design,2,2025-01-13,6,4,4,5,72.0
+INT-038,Intern 38,UI/UX Design,3,2025-01-20,14,9,5,5,78.57
+INT-038,Intern 38,UI/UX Design,4,2025-01-27,5,3,3,5,60.0
+INT-038,Intern 38,UI/UX Design,5,2025-02-03,9,6,4,5,72.0
+INT-038,Intern 38,UI/UX Design,6,2025-02-10,7,5,4,5,74.86
+INT-038,Intern 38,UI/UX Design,7,2025-02-17,15,11,4,5,76.0
+INT-038,Intern 38,UI/UX Design,8,2025-02-24,12,9,4,5,77.0
+INT-038,Intern 38,UI/UX Design,9,2025-03-03,12,10,4,5,82.0
+INT-038,Intern 38,UI/UX Design,10,2025-03-10,6,3,5,5,70.0
+INT-038,Intern 38,UI/UX Design,11,2025-03-17,7,5,4,5,74.86
+INT-038,Intern 38,UI/UX Design,12,2025-03-24,11,7,2,5,54.18
+INT-039,Intern 39,Web Development,1,2025-01-06,13,9,4,5,73.54
+INT-039,Intern 39,Web Development,2,2025-01-13,6,4,4,5,72.0
+INT-039,Intern 39,Web Development,3,2025-01-20,10,6,4,5,68.0
+INT-039,Intern 39,Web Development,4,2025-01-27,8,5,4,5,69.5
+INT-039,Intern 39,Web Development,5,2025-02-03,8,5,3,5,61.5
+INT-039,Intern 39,Web Development,6,2025-02-10,12,9,3,5,69.0
+INT-039,Intern 39,Web Development,7,2025-02-17,9,6,4,5,72.0
+INT-039,Intern 39,Web Development,8,2025-02-24,10,8,4,5,80.0
+INT-039,Intern 39,Web Development,9,2025-03-03,12,8,3,5,64.0
+INT-039,Intern 39,Web Development,10,2025-03-10,12,9,5,5,85.0
+INT-039,Intern 39,Web Development,11,2025-03-17,13,8,3,5,60.92
+INT-039,Intern 39,Web Development,12,2025-03-24,8,6,4,5,77.0
+INT-040,Intern 40,Data Analytics,1,2025-01-06,7,6,5,5,91.43
+INT-040,Intern 40,Data Analytics,2,2025-01-13,5,4,5,5,88.0
+INT-040,Intern 40,Data Analytics,3,2025-01-20,8,6,5,5,85.0
+INT-040,Intern 40,Data Analytics,4,2025-01-27,9,8,5,5,93.33
+INT-040,Intern 40,Data Analytics,5,2025-02-03,8,6,5,5,85.0
+INT-040,Intern 40,Data Analytics,6,2025-02-10,6,5,5,5,90.0
+INT-040,Intern 40,Data Analytics,7,2025-02-17,8,8,5,5,100.0
+INT-040,Intern 40,Data Analytics,8,2025-02-24,9,8,5,5,93.33
+INT-040,Intern 40,Data Analytics,9,2025-03-03,15,15,5,5,100.0
+INT-040,Intern 40,Data Analytics,10,2025-03-10,10,10,5,5,100.0
+INT-040,Intern 40,Data Analytics,11,2025-03-17,11,10,5,5,94.55
+INT-040,Intern 40,Data Analytics,12,2025-03-24,9,8,5,5,93.33
+INT-041,Intern 41,Data Science,1,2025-01-06,13,11,5,5,90.77
+INT-041,Intern 41,Data Science,2,2025-01-13,7,5,5,5,82.86
+INT-041,Intern 41,Data Science,3,2025-01-20,6,5,5,5,90.0
+INT-041,Intern 41,Data Science,4,2025-01-27,11,9,5,5,89.09
+INT-041,Intern 41,Data Science,5,2025-02-03,12,9,4,5,77.0
+INT-041,Intern 41,Data Science,6,2025-02-10,8,6,4,5,77.0
+INT-041,Intern 41,Data Science,7,2025-02-17,15,11,5,5,84.0
+INT-041,Intern 41,Data Science,8,2025-02-24,13,10,5,5,86.15
+INT-041,Intern 41,Data Science,9,2025-03-03,9,7,5,5,86.67
+INT-041,Intern 41,Data Science,10,2025-03-10,7,5,5,5,82.86
+INT-041,Intern 41,Data Science,11,2025-03-17,7,6,4,5,83.43
+INT-041,Intern 41,Data Science,12,2025-03-24,9,6,5,5,80.0
+INT-042,Intern 42,Data Science,1,2025-01-06,7,5,4,5,74.86
+INT-042,Intern 42,Data Science,2,2025-01-13,9,6,4,5,72.0
+INT-042,Intern 42,Data Science,3,2025-01-20,12,7,5,5,75.0
+INT-042,Intern 42,Data Science,4,2025-01-27,15,10,4,5,72.0
+INT-042,Intern 42,Data Science,5,2025-02-03,13,10,5,5,86.15
+INT-042,Intern 42,Data Science,6,2025-02-10,7,5,2,5,58.86
+INT-042,Intern 42,Data Science,7,2025-02-17,9,7,5,5,86.67
+INT-042,Intern 42,Data Science,8,2025-02-24,7,4,4,5,66.29
+INT-042,Intern 42,Data Science,9,2025-03-03,6,4,2,5,56.0
+INT-042,Intern 42,Data Science,10,2025-03-10,14,9,4,5,70.57
+INT-042,Intern 42,Data Science,11,2025-03-17,10,6,5,5,76.0
+INT-042,Intern 42,Data Science,12,2025-03-24,6,4,3,5,64.0
+INT-043,Intern 43,Marketing,1,2025-01-06,5,3,4,5,68.0
+INT-043,Intern 43,Marketing,2,2025-01-13,6,3,5,5,70.0
+INT-043,Intern 43,Marketing,3,2025-01-20,7,4,3,5,58.29
+INT-043,Intern 43,Marketing,4,2025-01-27,11,5,3,5,51.27
+INT-043,Intern 43,Marketing,5,2025-02-03,6,4,2,5,56.0
+INT-043,Intern 43,Marketing,6,2025-02-10,8,5,3,5,61.5
+INT-043,Intern 43,Marketing,7,2025-02-17,5,3,5,5,76.0
+INT-043,Intern 43,Marketing,8,2025-02-24,5,2,3,5,48.0
+INT-043,Intern 43,Marketing,9,2025-03-03,7,4,5,5,74.29
+INT-043,Intern 43,Marketing,10,2025-03-10,8,5,4,5,69.5
+INT-043,Intern 43,Marketing,11,2025-03-17,5,3,2,5,52.0
+INT-043,Intern 43,Marketing,12,2025-03-24,12,7,3,5,59.0
+INT-044,Intern 44,UI/UX Design,1,2025-01-06,7,4,5,5,74.29
+INT-044,Intern 44,UI/UX Design,2,2025-01-13,12,6,4,5,62.0
+INT-044,Intern 44,UI/UX Design,3,2025-01-20,6,3,4,5,62.0
+INT-044,Intern 44,UI/UX Design,4,2025-01-27,8,5,3,5,61.5
+INT-044,Intern 44,UI/UX Design,5,2025-02-03,15,9,4,5,68.0
+INT-044,Intern 44,UI/UX Design,6,2025-02-10,7,4,4,5,66.29
+INT-044,Intern 44,UI/UX Design,7,2025-02-17,12,8,3,5,64.0
+INT-044,Intern 44,UI/UX Design,8,2025-02-24,13,7,4,5,64.31
+INT-044,Intern 44,UI/UX Design,9,2025-03-03,11,7,3,5,62.18
+INT-044,Intern 44,UI/UX Design,10,2025-03-10,5,3,3,5,60.0
+INT-044,Intern 44,UI/UX Design,11,2025-03-17,15,10,2,5,56.0
+INT-044,Intern 44,UI/UX Design,12,2025-03-24,5,3,3,5,60.0
+INT-045,Intern 45,Data Analytics,1,2025-01-06,12,9,4,5,77.0
+INT-045,Intern 45,Data Analytics,2,2025-01-13,7,5,5,5,82.86
+INT-045,Intern 45,Data Analytics,3,2025-01-20,14,10,4,5,74.86
+INT-045,Intern 45,Data Analytics,4,2025-01-27,15,11,5,5,84.0
+INT-045,Intern 45,Data Analytics,5,2025-02-03,13,11,5,5,90.77
+INT-045,Intern 45,Data Analytics,6,2025-02-10,9,8,5,5,93.33
+INT-045,Intern 45,Data Analytics,7,2025-02-17,15,11,5,5,84.0
+INT-045,Intern 45,Data Analytics,8,2025-02-24,13,11,2,5,66.77
+INT-045,Intern 45,Data Analytics,9,2025-03-03,5,4,5,5,88.0
+INT-045,Intern 45,Data Analytics,10,2025-03-10,11,10,5,5,94.55
+INT-045,Intern 45,Data Analytics,11,2025-03-17,5,4,5,5,88.0
+INT-045,Intern 45,Data Analytics,12,2025-03-24,13,10,5,5,86.15
+INT-046,Intern 46,Data Science,1,2025-01-06,12,8,5,5,80.0
+INT-046,Intern 46,Data Science,2,2025-01-13,14,10,5,5,82.86
+INT-046,Intern 46,Data Science,3,2025-01-20,9,7,5,5,86.67
+INT-046,Intern 46,Data Science,4,2025-01-27,8,6,5,5,85.0
+INT-046,Intern 46,Data Science,5,2025-02-03,5,4,4,5,80.0
+INT-046,Intern 46,Data Science,6,2025-02-10,8,7,5,5,92.5
+INT-046,Intern 46,Data Science,7,2025-02-17,8,7,5,5,92.5
+INT-046,Intern 46,Data Science,8,2025-02-24,7,5,5,5,82.86
+INT-046,Intern 46,Data Science,9,2025-03-03,7,6,5,5,91.43
+INT-046,Intern 46,Data Science,10,2025-03-10,5,3,4,5,68.0
+INT-046,Intern 46,Data Science,11,2025-03-17,13,11,5,5,90.77
+INT-046,Intern 46,Data Science,12,2025-03-24,13,10,5,5,86.15
+INT-047,Intern 47,Web Development,1,2025-01-06,9,7,5,5,86.67
+INT-047,Intern 47,Web Development,2,2025-01-13,13,11,5,5,90.77
+INT-047,Intern 47,Web Development,3,2025-01-20,7,6,5,5,91.43
+INT-047,Intern 47,Web Development,4,2025-01-27,7,5,5,5,82.86
+INT-047,Intern 47,Web Development,5,2025-02-03,13,12,5,5,95.38
+INT-047,Intern 47,Web Development,6,2025-02-10,10,10,5,5,100.0
+INT-047,Intern 47,Web Development,7,2025-02-17,7,7,5,5,100.0
+INT-047,Intern 47,Web Development,8,2025-02-24,11,10,5,5,94.55
+INT-047,Intern 47,Web Development,9,2025-03-03,6,5,5,5,90.0
+INT-047,Intern 47,Web Development,10,2025-03-10,9,7,5,5,86.67
+INT-047,Intern 47,Web Development,11,2025-03-17,9,7,5,5,86.67
+INT-047,Intern 47,Web Development,12,2025-03-24,9,7,5,5,86.67
+INT-048,Intern 48,Web Development,1,2025-01-06,6,4,5,5,80.0
+INT-048,Intern 48,Web Development,2,2025-01-13,12,10,5,5,90.0
+INT-048,Intern 48,Web Development,3,2025-01-20,11,9,2,5,65.09
+INT-048,Intern 48,Web Development,4,2025-01-27,10,7,4,5,74.0
+INT-048,Intern 48,Web Development,5,2025-02-03,10,8,3,5,72.0
+INT-048,Intern 48,Web Development,6,2025-02-10,10,7,3,5,66.0
+INT-048,Intern 48,Web Development,7,2025-02-17,12,9,5,5,85.0
+INT-048,Intern 48,Web Development,8,2025-02-24,15,10,5,5,80.0
+INT-048,Intern 48,Web Development,9,2025-03-03,12,10,4,5,82.0
+INT-048,Intern 48,Web Development,10,2025-03-10,5,3,5,5,76.0
+INT-048,Intern 48,Web Development,11,2025-03-17,13,9,5,5,81.54
+INT-048,Intern 48,Web Development,12,2025-03-24,9,7,5,5,86.67
+INT-049,Intern 49,Web Development,1,2025-01-06,13,7,5,5,72.31
+INT-049,Intern 49,Web Development,2,2025-01-13,15,10,3,5,64.0
+INT-049,Intern 49,Web Development,3,2025-01-20,9,5,4,5,65.33
+INT-049,Intern 49,Web Development,4,2025-01-27,13,9,3,5,65.54
+INT-049,Intern 49,Web Development,5,2025-02-03,7,4,4,5,66.29
+INT-049,Intern 49,Web Development,6,2025-02-10,13,8,5,5,76.92
+INT-049,Intern 49,Web Development,7,2025-02-17,13,9,3,5,65.54
+INT-049,Intern 49,Web Development,8,2025-02-24,10,7,2,5,58.0
+INT-049,Intern 49,Web Development,9,2025-03-03,8,4,5,5,70.0
+INT-049,Intern 49,Web Development,10,2025-03-10,7,4,4,5,66.29
+INT-049,Intern 49,Web Development,11,2025-03-17,5,3,5,5,76.0
+INT-049,Intern 49,Web Development,12,2025-03-24,6,4,4,5,72.0
+INT-050,Intern 50,Data Analytics,1,2025-01-06,8,6,2,5,61.0
+INT-050,Intern 50,Data Analytics,2,2025-01-13,10,7,5,5,82.0
+INT-050,Intern 50,Data Analytics,3,2025-01-20,11,6,4,5,64.73
+INT-050,Intern 50,Data Analytics,4,2025-01-27,10,6,4,5,68.0
+INT-050,Intern 50,Data Analytics,5,2025-02-03,5,3,4,5,68.0
+INT-050,Intern 50,Data Analytics,6,2025-02-10,5,3,4,5,68.0
+INT-050,Intern 50,Data Analytics,7,2025-02-17,13,8,3,5,60.92
+INT-050,Intern 50,Data Analytics,8,2025-02-24,6,3,4,5,62.0
+INT-050,Intern 50,Data Analytics,9,2025-03-03,13,8,5,5,76.92
+INT-050,Intern 50,Data Analytics,10,2025-03-10,14,9,4,5,70.57
+INT-050,Intern 50,Data Analytics,11,2025-03-17,6,4,3,5,64.0
+INT-050,Intern 50,Data Analytics,12,2025-03-24,14,8,5,5,74.29
